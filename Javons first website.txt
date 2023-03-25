@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Javons Photography</title>
+</head>
+
+
+    <body>
+        <img src="https://hosting.photobucket.com/images/i/insertname272/DSC01200.JPG?width=320&height=320&fit=bounds" alt="Javons first wedding photo">
+        <img src="images/" alt="wedding photos for Sgt">
+        <h1> Javons Website for photography</h1>
+        <p><em>Javons really great photgraphy skills<strong> created by Camden</strong></em> </p>
+        <p> This will be for bio and other informations </p>
+        <hr> 
+        <h3> Best photos I've taken</h3>
+        <ul>
+            <li> The first best photo </li>
+        </ul>
+        <h3> Javons next set of contacts</h3>
+        <ol>
+            <li> here is javons number</li>
+            <li> javons email</li>
+            <li> javons address</li>
+
+        </ol>
+
+    </body>
+
+</html>
